@@ -7,7 +7,7 @@ describe("#wordSearch()", function() {
   it("should return false if the word is not present", function() {
     const result = wordSearch([
       ['A', 'W', 'C', 'F', 'Q', 'U', 'A', 'L'],
-      ['S', 'E', 'I', 'N', 'F', 'E', 'L', 'D'],
+      ['S', 'E', 'I', 'N', 'F', 'E', 'L', 'J'],
       ['Y', 'F', 'C', 'F', 'Q', 'U', 'A', 'L'],
       ['H', 'M', 'J', 'T', 'E', 'V', 'R', 'G'],
       ['W', 'H', 'C', 'S', 'Y', 'E', 'R', 'L'],
